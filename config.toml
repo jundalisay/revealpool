@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://pitch.pantrypoints.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Pantrypoints pitch'
 
 theme = "reveal-hugo"
 

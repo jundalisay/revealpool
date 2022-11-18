@@ -20,3 +20,10 @@ This is my first slide.
 
 # Hello Marss!
 
+multi-bgc
+12.78
+12.89
+13.45 
+
+baclaran-bgc
+13.97
