@@ -1,6 +1,6 @@
-baseURL = 'http://pitch.pantrypoints.com/'
+baseURL = 'http://pool.pantrypoints.com/'
 languageCode = 'en-us'
-title = 'Pantrypoints pitch'
+title = 'Pool Clearing'
 
 theme = "reveal-hugo"
 
@@ -12,3 +12,11 @@ baseName = "index"
 mediaType = "text/html"
 isHTML = true
 
+[reveal_hugo.templates.hotpink]
+class = "services"
+background = "#FF4081"
+
+[reveal_hugo]
+theme = "moon"
+highlight_theme = "solarized-dark"
+slide_number = true
