@@ -51,7 +51,7 @@ Banks form a pool that acts as one entity, using a common ledger to clear cross-
 
 ---
 
-{{< slide background-image="/money.jpg" >}}
+{{< slide background-image="/cash.jpg" >}}
 
 <h4 style="color: darkcyan; background-color: whitesmoke; opacity: .9;">Clearing Funds</h4>
 
@@ -217,8 +217,10 @@ The Pantrypoints system is designed to save cash which can then be used to spur 
 
 ---
 
-## END
+For more information
 
-- website: [pantrypoints.com/pool](https://www.pantrypoints.com/pool)
-- email jundalisay@gmail.com 
-
+Founder | Juan Dalisay Jr.
+--- | ---
+Website | [pantrypoints.com/pool](https://www.pantrypoints.com/pool)
+Mobile | 09605 424 101
+Email | pantrypoints@gmail.com 
