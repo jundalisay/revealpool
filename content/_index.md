@@ -55,7 +55,7 @@ Banks form a pool that acts as one entity, using a common ledger to clear cross-
 
 <h4 style="color: darkcyan; background-color: whitesmoke; opacity: .9;">Clearing Funds</h4>
 
-<small style="background-color: whitesmoke; opacity: .9;">
+<small style="background-color: whitesmoke; opacity: .9; color: black;">
 
 Each bank sets up <b>a clearing fund in local currency</b> which provides liquidity for the pool. 
 
@@ -135,7 +135,7 @@ The pool way uses clearing funds instead of the USD. All prices will be in local
 
 <h4 style="color: darkcyan; background-color: whitesmoke; opacity: .9;">Points Mechanism</h4>
 
-<p style="background-color: whitesmoke; opacity: .9;">
+<p style="background-color: whitesmoke; color: black; opacity: .9;">
 1 Point = Price of 1 kg rice
 </p>
 
